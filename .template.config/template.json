@@ -1,0 +1,12 @@
+{
+    "author": "Jm Weeger",
+    "classifications": [ "Common/Library" ],
+    "name": "C# Class Library Template",
+    "identity": "Jmw.Templates.ClassLibrary",
+    "shortName": "JmwClassLibrary",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "ClassLibrary",
+    "preferNameDirectory" : "true"
+    }
